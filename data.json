@@ -7,7 +7,7 @@
       "443"
     ],
     "headers": {
-      "X-GlobalBilgi": "true"
+      "GlobalBilgi": "true"
     }
   }
 ]
