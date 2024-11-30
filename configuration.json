@@ -1,39 +1,6 @@
 [
   {
-    "name": "webchat.templates",
-    "ip": "38.242.158.117",
-    "port": [
-      "80",
-      "443"
-    ],
-    "headers": {
-      "GlobalBilgi": "true"
-    }
-  },
-  {
-    "name": "webchat_v2.globalbilgi.com.ua",
-    "ip": "38.242.158.117",
-    "port": [
-      "80",
-      "443"
-    ],
-    "headers": {
-      "GlobalBilgi": "true"
-    }
-  },
-  {
-    "name": "socialnetworks.templates",
-    "ip": "38.242.158.117",
-    "port": [
-      "80",
-      "443"
-    ],
-    "headers": {
-      "GlobalBilgi": "true"
-    }
-  },
-  {
-    "name": "backoffice.templates",
+    "name": "backoffice.gbukr",
     "ip": "38.242.158.117",
     "port": [
       "80",
