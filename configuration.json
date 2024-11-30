@@ -11,6 +11,17 @@
     }
   },
   {
+    "name": "webchat.gbukr",
+    "ip": "38.242.158.117",
+    "port": [
+      "80",
+      "443"
+    ],
+    "headers": {
+      "GlobalBilgi": "true"
+    }
+  },
+  {
     "name": "socialnetworks.templates",
     "ip": "38.242.158.117",
     "port": [
