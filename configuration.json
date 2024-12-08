@@ -20,5 +20,16 @@
     "headers": {
       "GlobalBilgi": "true"
     }
+  },
+  {
+    "name": "socialnetworks.gbukr",
+    "ip": "38.242.158.117",
+    "port": [
+      "80",
+      "443"
+    ],
+    "headers": {
+      "GlobalBilgi": "true"
+    }
   }
 ]
